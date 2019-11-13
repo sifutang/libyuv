@@ -1,0 +1,571 @@
+[
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuvutil_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/yuvutil.dir/src/main/cpp/YuvConvert.cpp.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/YuvConvert.cpp",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/YuvConvert.cpp"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuvutil_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/yuvutil.dir/src/main/cpp/YuvJni.cpp.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/YuvJni.cpp",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/YuvJni.cpp"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/compare.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/compare_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/compare_gcc.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_gcc.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_gcc.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/compare_neon.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/compare_neon64.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon64.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon64.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/compare_win.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_win.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_win.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/convert.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/convert_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/convert_from.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/convert_from_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/convert_jpeg.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_jpeg.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_jpeg.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/convert_to_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/convert_to_i420.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_i420.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_i420.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/cpu_id.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/cpu_id.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/cpu_id.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/mjpeg_decoder.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_decoder.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_decoder.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/mjpeg_validate.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_validate.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_validate.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/planar_functions.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/planar_functions.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/planar_functions.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate_any.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_any.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_any.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate_dspr2.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_dspr2.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_dspr2.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate_gcc.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_gcc.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_gcc.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate_msa.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_msa.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_msa.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate_neon.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate_neon64.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon64.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon64.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/rotate_win.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_win.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_win.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/row_any.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_any.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_any.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/row_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/row_dspr2.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_dspr2.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_dspr2.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/row_gcc.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_gcc.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_gcc.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/row_msa.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_msa.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_msa.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/row_neon.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/row_neon64.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon64.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon64.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/row_win.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_win.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_win.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale_any.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_any.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_any.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale_dspr2.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_dspr2.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_dspr2.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale_gcc.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_gcc.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_gcc.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale_msa.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_msa.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_msa.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale_neon.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale_neon64.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon64.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon64.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/scale_win.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_win.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_win.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv.dir/source/video_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/video_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/video_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/compare.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/compare_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/compare_gcc.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_gcc.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_gcc.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/compare_neon.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/compare_neon64.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon64.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon64.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/compare_win.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_win.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_win.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/convert.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/convert_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/convert_from.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/convert_from_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/convert_jpeg.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_jpeg.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_jpeg.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/convert_to_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/convert_to_i420.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_i420.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_i420.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/cpu_id.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/cpu_id.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/cpu_id.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/mjpeg_decoder.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_decoder.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_decoder.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/mjpeg_validate.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_validate.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_validate.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/planar_functions.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/planar_functions.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/planar_functions.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate_any.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_any.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_any.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate_dspr2.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_dspr2.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_dspr2.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate_gcc.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_gcc.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_gcc.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate_msa.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_msa.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_msa.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate_neon.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate_neon64.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon64.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon64.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/rotate_win.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_win.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_win.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/row_any.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_any.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_any.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/row_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/row_dspr2.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_dspr2.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_dspr2.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/row_gcc.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_gcc.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_gcc.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/row_msa.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_msa.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_msa.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/row_neon.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/row_neon64.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon64.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon64.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/row_win.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_win.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_win.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale_any.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_any.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_any.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale_argb.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_argb.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_argb.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale_dspr2.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_dspr2.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_dspr2.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale_gcc.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_gcc.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_gcc.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale_msa.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_msa.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_msa.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale_neon.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale_neon64.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon64.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon64.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/scale_win.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_win.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_win.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o build/CMakeFiles/yuv_shared.dir/source/video_common.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/video_common.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/video_common.cc"
+},
+
+{
+  "directory": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=armv7-none-linux-androideabi28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot   -I../../../../src/main/cpp/libyuv/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIE   -o build/CMakeFiles/yuvconvert.dir/util/yuvconvert.cc.o -c /home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/util/yuvconvert.cc",
+  "file": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/util/yuvconvert.cc"
+}
+]

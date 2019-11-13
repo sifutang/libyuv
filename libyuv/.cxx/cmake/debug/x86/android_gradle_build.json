@@ -1,0 +1,551 @@
+{
+  "stringTable": {
+    "0": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dyuvutil_EXPORTS -I../../../../src/main/cpp/libyuv/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=i686-none-linux-android28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot -I../../../../src/main/cpp/libyuv/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "3": "--target=i686-none-linux-android28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dyuv_shared_EXPORTS -I../../../../src/main/cpp/libyuv/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "4": "--target=i686-none-linux-android28 --gcc-toolchain=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/sysroot -I../../../../src/main/cpp/libyuv/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIE"
+  },
+  "buildFiles": [
+    "/home/android/Android/Sdk/ndk/21.0.5935234/build/cmake/android.toolchain.cmake",
+    "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/CM_linux_packages.cmake",
+    "/home/android/Android/Sdk/ndk/21.0.5935234/build/cmake/platforms.cmake",
+    "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/CMakeLists.txt",
+    "/home/android/AndroidStudioProjects/Libyuv/libyuv/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yuv-Debug-x86": {
+      "buildCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86\" yuv",
+      "buildType": "debug",
+      "toolchain": "2224785572",
+      "abi": "x86",
+      "artifactName": "yuv",
+      "files": [
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_gcc.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon64.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_win.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_jpeg.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_i420.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/cpu_id.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_decoder.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_validate.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/planar_functions.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_any.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_dspr2.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_gcc.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_msa.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon64.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_win.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_any.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_dspr2.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_gcc.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_msa.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon64.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_win.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_any.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_dspr2.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_gcc.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_msa.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon64.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_win.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/video_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86/build/libyuv.a"
+    },
+    "yuv_shared-Debug-x86": {
+      "buildCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86\" yuv_shared",
+      "buildType": "debug",
+      "toolchain": "2224785572",
+      "abi": "x86",
+      "artifactName": "yuv_shared",
+      "files": [
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_gcc.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_neon64.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/compare_win.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_from_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_jpeg.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/convert_to_i420.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/cpu_id.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_decoder.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/mjpeg_validate.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/planar_functions.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_any.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_dspr2.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_gcc.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_msa.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_neon64.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/rotate_win.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_any.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_dspr2.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_gcc.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_msa.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_neon64.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/row_win.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_any.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_argb.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_dspr2.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_gcc.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_msa.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_neon64.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/scale_win.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/source/video_common.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/android/AndroidStudioProjects/Libyuv/libyuv/build/intermediates/cmake/debug/obj/x86/libyuv.so"
+    },
+    "yuvconvert-Debug-x86": {
+      "buildCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86\" yuvconvert",
+      "buildType": "debug",
+      "toolchain": "2224785572",
+      "abi": "x86",
+      "artifactName": "yuvconvert",
+      "files": [
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/util/yuvconvert.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86/build/yuvconvert"
+    },
+    "yuvutil-Debug-x86": {
+      "buildCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86\" yuvutil",
+      "buildType": "debug",
+      "toolchain": "2224785572",
+      "abi": "x86",
+      "artifactName": "yuvutil",
+      "files": [
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/YuvConvert.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/YuvJni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/home/android/AndroidStudioProjects/Libyuv/libyuv/build/intermediates/cmake/debug/obj/x86/libyuvutil.so"
+    }
+  },
+  "toolchains": {
+    "2224785572": {
+      "cppCompilerExecutable": "/home/android/Android/Sdk/ndk/21.0.5935234/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "buildFiles": [
+    "/home/android/Android/Sdk/ndk/21.0.5935234/build/cmake/android.toolchain.cmake",
+    "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/CM_linux_packages.cmake",
+    "/home/android/Android/Sdk/ndk/21.0.5935234/build/cmake/platforms.cmake",
+    "/home/android/AndroidStudioProjects/Libyuv/libyuv/src/main/cpp/libyuv/CMakeLists.txt",
+    "/home/android/AndroidStudioProjects/Libyuv/libyuv/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yuvutil-Release-x86": {
+      "artifactName": "yuvutil",
+      "buildCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/release/x86\" yuvutil",
+      "abi": "x86",
+      "output": "/home/android/AndroidStudioProjects/Libyuv/libyuv/build/intermediates/cmake/release/obj/x86/libyuvutil.so"
+    },
+    "yuv_shared-Release-x86": {
+      "artifactName": "yuv_shared",
+      "buildCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/release/x86\" yuv_shared",
+      "abi": "x86",
+      "output": "/home/android/AndroidStudioProjects/Libyuv/libyuv/build/intermediates/cmake/release/obj/x86/libyuv.so"
+    },
+    "yuv-Release-x86": {
+      "artifactName": "yuv",
+      "buildCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/release/x86\" yuv",
+      "abi": "x86",
+      "output": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/release/x86/build/libyuv.a"
+    },
+    "yuvconvert-Release-x86": {
+      "artifactName": "yuvconvert",
+      "buildCommand": "/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/release/x86\" yuvconvert",
+      "abi": "x86",
+      "output": "/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/release/x86/build/yuvconvert"
+    }
+  }
+}

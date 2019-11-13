@@ -1,0 +1,9 @@
+Executable : /home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/release/armeabi-v7a
+yuv_shared
+yuvconvert
+yuvutil
+jvmArgs : 
+

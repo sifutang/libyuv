@@ -1,0 +1,20 @@
+Executable : /home/android/Android/Sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/home/android/AndroidStudioProjects/Libyuv/libyuv
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/home/android/Android/Sdk/ndk/21.0.5935234/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=x86_64
+-DANDROID_NDK=/home/android/Android/Sdk/ndk/21.0.5935234
+-DANDROID_PLATFORM=android-28
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_ANDROID_NDK=/home/android/Android/Sdk/ndk/21.0.5935234
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/android/AndroidStudioProjects/Libyuv/libyuv/build/intermediates/cmake/debug/obj/x86_64
+-DCMAKE_MAKE_PROGRAM=/home/android/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=28
+-B/home/android/AndroidStudioProjects/Libyuv/libyuv/.cxx/cmake/debug/x86_64
+-GNinja
+jvmArgs : 
+
+Build command args:
