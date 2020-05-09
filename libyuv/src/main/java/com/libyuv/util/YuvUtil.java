@@ -49,6 +49,8 @@ public class YuvUtil {
 
     public static native void yuvNV21ToI420AndRotate(byte[] nv21Src, int width, int height, byte[] i420Dst, int degree);
 
+    public static native void yuvI420RotateAndToNV21(byte[] i420Src, int width, int height, byte[] nv21Dst, int degree);
+
     public static native void yuvI420ToARGB(byte[] i420Src, int width, int height, int dst_stride, byte[] argbDst);
 
     public static native void yuvI420ToYUY2(byte[] i420Src, int width, int height, int dst_stride, byte[] yuy2Dst);

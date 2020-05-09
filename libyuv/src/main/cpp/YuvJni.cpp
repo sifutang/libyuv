@@ -427,7 +427,7 @@ JNIEXPORT void JNICALL Java_com_libyuv_util_YuvUtil_yuvMirrorI420LeftRightAndRot
     jbyte *dst_i420_data = env->GetByteArrayElements(i420Dst, NULL);
 
     // i420数据镜像
-    jbyte *i420_mirror_data = (jbyte *) malloc(sizeof(jbyte) * width * height * 3 / 2);;
+    auto *i420_mirror_data = (jbyte *) malloc(sizeof(jbyte) * width * height * 3 / 2);
     MirrorI420LeftRight(src_i420_data, width, height, i420_mirror_data);
 
     // i420数据旋转
@@ -442,4 +442,29 @@ extern "C"
 JNIEXPORT void JNICALL Java_com_libyuv_util_YuvUtil_test
         (JNIEnv *env, jclass clazz) {
     LOGD("just test code...");
+}
+
+extern "C"
+JNIEXPORT void JNICALL
+Java_com_libyuv_util_YuvUtil_yuvI420RotateAndToNV21(JNIEnv *env, jclass clazz, jbyteArray i420Src,
+                                                    jint width, jint height, jbyteArray nv21Dst,
+                                                    jint degree) {
+    jbyte *src_i420_data = env->GetByteArrayElements(i420Src, NULL);
+    jbyte *dst_nv21_data = env->GetByteArrayElements(nv21Dst, NULL);
+
+    // rotate i420
+    auto *i420_rotate_data = (jbyte *) malloc(sizeof(jbyte) * width * height * 3 / 2);
+    rotateI420(src_i420_data, width, height, i420_rotate_data, degree);
+
+    // convert to nv21
+    if (degree == 90 || degree == 270) {
+        jint tmp = width;
+        width = height;
+        height = tmp;
+    }
+    I420ToNv21(i420_rotate_data, width, height, dst_nv21_data);
+    env->ReleaseByteArrayElements(nv21Dst, dst_nv21_data, 0);
+
+    // release
+    free(i420_rotate_data);
 }
